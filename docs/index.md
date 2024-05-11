@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "仅记API"
+  name: "秦明朗"
   text: "仅记App的官方文档"
   tagline: My great project tagline
   actions:
